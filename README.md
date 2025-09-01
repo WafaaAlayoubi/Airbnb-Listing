@@ -52,6 +52,13 @@ The analysis revealed several counter-intuitive and significant insights:
 
 ---
 
+## Interactive EDA Report
+
+An interactive HTML report was generated using `ydata-profiling` to provide a deep, granular overview of the dataset.
+
+➡️ **[View the Interactive Report Here](https://wafaaalayoubi.github.io/Airbnb-Listing/)**
+
+---
 ## How to Run This Project
 
 1.  **Clone the repository:**
@@ -75,7 +82,7 @@ The analysis revealed several counter-intuitive and significant insights:
     ```bash
     jupyter notebook airbnb-full-eda.ipynb
     ```
-*(Note: to download the data `listings.csv` you can find it at https://www.kaggle.com/datasets/wafaaalayoubi/los-angeles-airbnb-data-june-2025)*
+*(Note: to download the data `listings.csv` you can find it at [link to dataset](https://www.kaggle.com/datasets/wafaaalayoubi/los-angeles-airbnb-data-june-2025))*
 
 ---
 
